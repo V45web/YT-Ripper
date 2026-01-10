@@ -81,3 +81,5 @@ If you want to build this app from source, follow these steps:
 
 **Maintained by:** Harsh Tiwari **||**
 **Email:** harshtiwari6060@gmail.com
+
+Join Our [Discord](https://discord.gg/8EtrjWqgJe) to report bugs or to give suggestions
